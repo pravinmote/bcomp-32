@@ -1,0 +1,5 @@
+Section: devel
+Version: 3.3.10
+Maintainer: xxx
+Architecture: all
+Description: beyond compare tool for comparing files and folders
